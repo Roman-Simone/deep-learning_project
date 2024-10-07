@@ -1,4 +1,9 @@
-# DeepLearning Project
+<div align="center">
+  <h1 style="border-bottom: none;">DeepLearning Project: Memo</h1>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+</div>
+
 
 This repository contains the code and resources for a deep learning project focused on image classification and segmentation using various augmentation techniques and Grad-CAM visualization.
 
